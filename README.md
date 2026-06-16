@@ -65,6 +65,7 @@ Tools and platforms for understanding soil conditions, crop health, and environm
 
 Platforms that connect producers with markets, logistics, and financial systems.
 
+- [Agriculture & AgTech Research Agent](https://superhighway.walls.sh/guides/agtech-research-agent) — Build a Python agent that researches agriculture markets and AgTech using live web data — USDA crop reports, commodity prices, weather risk, and precision agriculture technology.
 - [Bushel](https://www.bushelpowered.com/) — Digital platform for grain supply chain management and communication.
 - [Indigo Ag](https://www.indigoag.com/) — Marketplace and sustainability platform for agriculture.
 - [FarmLead](https://farmlead.com/) — Online grain marketplace connecting buyers and sellers.
