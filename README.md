@@ -23,7 +23,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 ## Farm Management Platforms
 
 Digital platforms for planning, monitoring, and managing farm operations.
-
+- [Agricalc](https://agricalc.online/) — Free science-based agriculture calculators covering planting, fertilization, irrigation, harvest, and marketing; works offline as a PWA
 - [Agworld](https://www.agworld.com/) — Farm management software for planning and tracking agricultural operations.
 - [Climate FieldView](https://climate.com/) — Digital agriculture platform for data-driven farm management.
 - [Granular](https://granular.ag/) — Farm management platform for operational and financial planning.
