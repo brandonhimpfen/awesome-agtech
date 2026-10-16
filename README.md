@@ -52,7 +52,7 @@ Automation technologies and robotic systems for agricultural operations.
 
 Aerial and satellite-based technologies for monitoring crops and land conditions.
 
-- [DJI Agriculture](https://www.dji.com/agriculture) — Drone solutions for crop spraying and aerial monitoring.
+- [DJI Agriculture](https://ag.dji.com/) — Drone solutions for crop spraying and aerial monitoring.
 - [Planet Labs](https://www.planet.com/) — Satellite imagery platform for agricultural monitoring and analytics.
 - [Sentera](https://sentera.com/) — Drone-based imaging and analytics for precision agriculture.
 
